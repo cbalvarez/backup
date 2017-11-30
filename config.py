@@ -1,5 +1,7 @@
 import ConfigParser
 
+#trestetesttestestest
+
 def readconfig():
 	Config = ConfigParser.ConfigParser() 
 	Config.read('backup.ini') 
