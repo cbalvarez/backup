@@ -13,6 +13,8 @@ import stat
 import glacierint
 import config
 
+
+#just to test
 class FileBackupResult:
 	def __init__(self, id, name, last_modified, result):
 		self.id = id
