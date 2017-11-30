@@ -7,4 +7,4 @@ create table retrieve_jobs (
        is_finished boolean not null,
       unique key(job_id),
       primary key (id) )
-
+//

@@ -14,6 +14,8 @@ import glacierint
 import config
 import config
 
+#just for test
+
 
 def get_last_version(con, country, directory, file):
 	file_name = directory + "/" + ntpath.basename(file) 	
