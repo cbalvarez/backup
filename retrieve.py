@@ -15,6 +15,9 @@ import config
 import config
 
 
+
+
+#maybe another test
 def get_last_version(con, country, directory, file):
 	file_name = directory + "/" + ntpath.basename(file) 	
 	cur = con.cursor()	
